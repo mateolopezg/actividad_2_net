@@ -1,0 +1,7 @@
+c:\users\mio\source\repos\Actividad_2\Actividad_2\bin\Debug\Actividad_2.exe.config
+c:\users\mio\source\repos\Actividad_2\Actividad_2\bin\Debug\Actividad_2.exe
+c:\users\mio\source\repos\Actividad_2\Actividad_2\bin\Debug\Actividad_2.pdb
+c:\users\mio\source\repos\Actividad_2\Actividad_2\obj\Debug\Actividad_2.csprojAssemblyReference.cache
+c:\users\mio\source\repos\Actividad_2\Actividad_2\obj\Debug\Actividad_2.csproj.CoreCompileInputs.cache
+c:\users\mio\source\repos\Actividad_2\Actividad_2\obj\Debug\Actividad_2.exe
+c:\users\mio\source\repos\Actividad_2\Actividad_2\obj\Debug\Actividad_2.pdb
